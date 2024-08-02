@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yufeng Liu</h1>
 <h3 align="center">A passionate and curious software developer in Ottawa, Canada</h3>
 
-- 🌱 I’m currently learning more about **Application Development**
+- 🌱 I’m currently learning more about **Artificial Intelligence**
 - 💎 I'm interested in **Robotics**
 
 <h3 align="left">Connect with me:</h3>
